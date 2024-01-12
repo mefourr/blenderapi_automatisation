@@ -1,0 +1,13 @@
+{
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.black-formatter",
+		"editor.formatOnSave": true
+	},
+	"python.autoComplete.extraPaths": [
+		"d:/autocomplete/3.4"
+	],
+	"python.analysis.extraPaths": [
+		"d:/autocomplete/3.4"
+	],
+	"python.analysis.autoImportCompletions": true
+}
